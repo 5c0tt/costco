@@ -38,4 +38,4 @@ We need to alter one line in that Postscript code:
 
 It is line 4 in case you didn't notice where I changed the 1440 to 720.  You will see I also added in margint ( top ) and marginb ( bottom )
 
-If you just want to download the template, feel free to [download it here](template.rtfd).
+If you just want to download the template, feel free to [download it here](template.rtfd.zip).
